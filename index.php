@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations!</h2>
-                <p>Your PHP application is now running in runnable &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
+                <p>Your PHP application is now running in runnable &ldquo;<?php echo gethostname(); ?>&rdquo; in some &nbsp;Cloud.</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
             </div>
         </div>
