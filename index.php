@@ -11,7 +11,7 @@
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
 
-    <body bgcolor="#00FF00">
+    <body bgcolor="#00CC00">
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
